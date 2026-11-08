@@ -1,0 +1,390 @@
+{
+  "products": {
+    "poltrona-bergere-veludo-mostarda": {
+      "photos": [
+        "assets/products/poltrona-bergere-veludo-mostarda/1.jpg",
+        "assets/products/poltrona-bergere-veludo-mostarda/2.jpg",
+        "assets/products/poltrona-bergere-veludo-mostarda/3.jpg"
+      ],
+      "model": "assets/models/poltrona-bergere-veludo-mostarda.glb"
+    },
+    "peca-decorativa-demonstrativa": {
+      "photos": [
+        "assets/products/peca-decorativa-demonstrativa/1.jpg",
+        "assets/products/peca-decorativa-demonstrativa/2.jpg",
+        "assets/products/peca-decorativa-demonstrativa/3.jpg"
+      ],
+      "model": "assets/models/peca-demo.glb"
+    },
+    "poltrona-club-couro-conhaque": {
+      "photos": [
+        "assets/products/poltrona-club-couro-conhaque/1.jpg",
+        "assets/products/poltrona-club-couro-conhaque/2.jpg",
+        "assets/products/poltrona-club-couro-conhaque/3.jpg"
+      ],
+      "model": "assets/models/poltrona-club-couro-conhaque.glb"
+    },
+    "mesa-lateral-jacaranda": {
+      "photos": [
+        "assets/products/mesa-lateral-jacaranda/1.jpg",
+        "assets/products/mesa-lateral-jacaranda/2.jpg",
+        "assets/products/mesa-lateral-jacaranda/3.jpg"
+      ],
+      "model": "assets/models/mesa-lateral-jacaranda.glb"
+    },
+    "abajur-ceramica-turquesa": {
+      "photos": [
+        "assets/products/abajur-ceramica-turquesa/1.jpg",
+        "assets/products/abajur-ceramica-turquesa/2.jpg",
+        "assets/products/abajur-ceramica-turquesa/3.jpg"
+      ],
+      "model": "assets/models/abajur-ceramica-turquesa.glb"
+    },
+    "espelho-veneziano-oval": {
+      "photos": [
+        "assets/products/espelho-veneziano-oval/1.jpg",
+        "assets/products/espelho-veneziano-oval/2.jpg",
+        "assets/products/espelho-veneziano-oval/3.jpg"
+      ],
+      "model": null
+    },
+    "estante-imbuia-livros": {
+      "photos": [
+        "assets/products/estante-imbuia-livros/1.jpg",
+        "assets/products/estante-imbuia-livros/2.jpg",
+        "assets/products/estante-imbuia-livros/3.jpg"
+      ],
+      "model": "assets/models/estante-imbuia-livros.glb"
+    },
+    "escrivaninha-imbuia-anos-50": {
+      "photos": [
+        "assets/products/escrivaninha-imbuia-anos-50/1.jpg",
+        "assets/products/escrivaninha-imbuia-anos-50/2.jpg",
+        "assets/products/escrivaninha-imbuia-anos-50/3.jpg"
+      ],
+      "model": "assets/models/escrivaninha-imbuia-anos-50.glb"
+    },
+    "cadeira-palhinha-torneada": {
+      "photos": [
+        "assets/products/cadeira-palhinha-torneada/1.jpg",
+        "assets/products/cadeira-palhinha-torneada/2.jpg",
+        "assets/products/cadeira-palhinha-torneada/3.jpg"
+      ],
+      "model": "assets/models/cadeira-palhinha-torneada.glb"
+    },
+    "luminaria-banqueiro-verde": {
+      "photos": [
+        "assets/products/luminaria-banqueiro-verde/1.jpg",
+        "assets/products/luminaria-banqueiro-verde/2.jpg",
+        "assets/products/luminaria-banqueiro-verde/3.jpg"
+      ],
+      "model": "assets/models/luminaria-banqueiro-verde.glb"
+    },
+    "relogio-parede-romanos": {
+      "photos": [
+        "assets/products/relogio-parede-romanos/1.jpg",
+        "assets/products/relogio-parede-romanos/2.jpg",
+        "assets/products/relogio-parede-romanos/3.jpg"
+      ],
+      "model": "assets/models/relogio-parede-romanos.glb"
+    },
+    "comoda-tres-gavetas-cerejeira": {
+      "photos": [
+        "assets/products/comoda-tres-gavetas-cerejeira/1.jpg",
+        "assets/products/comoda-tres-gavetas-cerejeira/2.jpg",
+        "assets/products/comoda-tres-gavetas-cerejeira/3.jpg"
+      ],
+      "model": "assets/models/comoda-tres-gavetas-cerejeira.glb"
+    },
+    "criado-mudo-torneado": {
+      "photos": [
+        "assets/products/criado-mudo-torneado/1.jpg",
+        "assets/products/criado-mudo-torneado/2.jpg",
+        "assets/products/criado-mudo-torneado/3.jpg"
+      ],
+      "model": "assets/models/criado-mudo-torneado.glb"
+    },
+    "bau-viagem-couro": {
+      "photos": [
+        "assets/products/bau-viagem-couro/1.jpg",
+        "assets/products/bau-viagem-couro/2.jpg",
+        "assets/products/bau-viagem-couro/3.jpg"
+      ],
+      "model": "assets/models/bau-viagem-couro.glb"
+    },
+    "retrato-oleo-dama": {
+      "photos": [
+        "assets/products/retrato-oleo-dama/1.jpg",
+        "assets/products/retrato-oleo-dama/2.jpg",
+        "assets/products/retrato-oleo-dama/3.jpg"
+      ],
+      "model": null
+    },
+    "jarro-bacia-porcelana": {
+      "photos": [
+        "assets/products/jarro-bacia-porcelana/1.jpg",
+        "assets/products/jarro-bacia-porcelana/2.jpg",
+        "assets/products/jarro-bacia-porcelana/3.jpg"
+      ],
+      "model": "assets/models/jarro-bacia-porcelana.glb"
+    },
+    "espelho-bisotado-retangular": {
+      "photos": [
+        "assets/products/espelho-bisotado-retangular/1.jpg",
+        "assets/products/espelho-bisotado-retangular/2.jpg",
+        "assets/products/espelho-bisotado-retangular/3.jpg"
+      ],
+      "model": null
+    },
+    "mesa-jantar-redonda-pe-central": {
+      "photos": [
+        "assets/products/mesa-jantar-redonda-pe-central/1.jpg",
+        "assets/products/mesa-jantar-redonda-pe-central/2.jpg",
+        "assets/products/mesa-jantar-redonda-pe-central/3.jpg"
+      ],
+      "model": "assets/models/mesa-jantar-redonda-pe-central.glb"
+    },
+    "mesa-retangular-pes-torneados": {
+      "photos": [
+        "assets/products/mesa-retangular-pes-torneados/1.jpg",
+        "assets/products/mesa-retangular-pes-torneados/2.jpg",
+        "assets/products/mesa-retangular-pes-torneados/3.jpg"
+      ],
+      "model": "assets/models/mesa-retangular-pes-torneados.glb"
+    },
+    "bule-porcelana-azul-cobalto": {
+      "photos": [
+        "assets/products/bule-porcelana-azul-cobalto/1.jpg",
+        "assets/products/bule-porcelana-azul-cobalto/2.jpg",
+        "assets/products/bule-porcelana-azul-cobalto/3.jpg"
+      ],
+      "model": "assets/models/bule-porcelana-azul-cobalto.glb"
+    },
+    "vaso-ceramica-esmaltada-verde": {
+      "photos": [
+        "assets/products/vaso-ceramica-esmaltada-verde/1.jpg",
+        "assets/products/vaso-ceramica-esmaltada-verde/2.jpg",
+        "assets/products/vaso-ceramica-esmaltada-verde/3.jpg"
+      ],
+      "model": "assets/models/vaso-ceramica-esmaltada-verde.glb"
+    },
+    "quadro-paisagem-oleo": {
+      "photos": [
+        "assets/products/quadro-paisagem-oleo/1.jpg",
+        "assets/products/quadro-paisagem-oleo/2.jpg",
+        "assets/products/quadro-paisagem-oleo/3.jpg"
+      ],
+      "model": null
+    },
+    "vitrola-corneta-bordo": {
+      "photos": [
+        "assets/products/vitrola-corneta-bordo/1.jpg",
+        "assets/products/vitrola-corneta-bordo/2.jpg",
+        "assets/products/vitrola-corneta-bordo/3.jpg"
+      ],
+      "model": "assets/models/vitrola-corneta-bordo.glb"
+    },
+    "relogio-carrilhao-pe": {
+      "photos": [
+        "assets/products/relogio-carrilhao-pe/1.jpg",
+        "assets/products/relogio-carrilhao-pe/2.jpg",
+        "assets/products/relogio-carrilhao-pe/3.jpg"
+      ],
+      "model": "assets/models/relogio-carrilhao-pe.glb"
+    },
+    "par-castical-bronze": {
+      "photos": [
+        "assets/products/par-castical-bronze/1.jpg",
+        "assets/products/par-castical-bronze/2.jpg",
+        "assets/products/par-castical-bronze/3.jpg"
+      ],
+      "model": null
+    },
+    "natureza-morta-oleo": {
+      "photos": [
+        "assets/products/natureza-morta-oleo/1.jpg",
+        "assets/products/natureza-morta-oleo/2.jpg",
+        "assets/products/natureza-morta-oleo/3.jpg"
+      ],
+      "model": null
+    }
+  },
+  "rooms": {
+    "escritorio": {
+      "image": "assets/panoramas/escritorio.jpg",
+      "imageMobile": "assets/panoramas/escritorio-mobile.jpg",
+      "hotspots": [
+        {
+          "productId": "escrivaninha-imbuia-anos-50",
+          "yaw": -90,
+          "pitch": -30.69
+        },
+        {
+          "productId": "cadeira-palhinha-torneada",
+          "yaw": -87.6,
+          "pitch": -38.64
+        },
+        {
+          "productId": "luminaria-banqueiro-verde",
+          "yaw": -78.64,
+          "pitch": -14.8
+        },
+        {
+          "productId": "relogio-parede-romanos",
+          "yaw": -90,
+          "pitch": 12.49
+        },
+        {
+          "productId": "estante-imbuia-livros",
+          "yaw": -162.18,
+          "pitch": -10.97
+        },
+        {
+          "productId": "peca-decorativa-demonstrativa",
+          "yaw": 149.42,
+          "pitch": -28.24
+        }
+      ],
+      "navPoints": [
+        {
+          "target": "sala-de-estar",
+          "label": "Ir para a Sala de estar",
+          "yaw": 56.31,
+          "pitch": -4.95
+        }
+      ],
+      "views": {
+        "escritorio-capa": "assets/scenes/escritorio-capa.jpg",
+        "escritorio-detalhe": "assets/scenes/escritorio-detalhe.jpg"
+      }
+    },
+    "sala-de-estar": {
+      "image": "assets/panoramas/sala-de-estar.jpg",
+      "imageMobile": "assets/panoramas/sala-de-estar-mobile.jpg",
+      "hotspots": [
+        {
+          "productId": "poltrona-bergere-veludo-mostarda",
+          "yaw": -124.84,
+          "pitch": -31.84
+        },
+        {
+          "productId": "poltrona-club-couro-conhaque",
+          "yaw": -55.16,
+          "pitch": -31.84
+        },
+        {
+          "productId": "mesa-lateral-jacaranda",
+          "yaw": -90,
+          "pitch": -35.35
+        },
+        {
+          "productId": "abajur-ceramica-turquesa",
+          "yaw": -90,
+          "pitch": -19.36
+        },
+        {
+          "productId": "espelho-veneziano-oval",
+          "yaw": -90,
+          "pitch": 7.61
+        },
+        {
+          "productId": "relogio-carrilhao-pe",
+          "yaw": -141.07,
+          "pitch": -7.33
+        },
+        {
+          "productId": "vitrola-corneta-bordo",
+          "yaw": -12.85,
+          "pitch": -7.32
+        },
+        {
+          "productId": "quadro-paisagem-oleo",
+          "yaw": -13.24,
+          "pitch": 5.6
+        },
+        {
+          "productId": "vaso-ceramica-esmaltada-verde",
+          "yaw": 21.04,
+          "pitch": -25.02
+        }
+      ],
+      "navPoints": [
+        {
+          "target": "escritorio",
+          "label": "Ir para o Escritório",
+          "yaw": 123.69,
+          "pitch": -4.95
+        },
+        {
+          "target": "dormitorio",
+          "label": "Ir para o Dormitório",
+          "yaw": 56.31,
+          "pitch": -4.95
+        }
+      ],
+      "views": {
+        "sala-hero": "assets/scenes/sala-hero.jpg",
+        "sala-capa": "assets/scenes/sala-capa.jpg",
+        "sala-vitrola": "assets/scenes/sala-vitrola.jpg",
+        "sala-sobre": "assets/scenes/sala-sobre.jpg"
+      }
+    },
+    "dormitorio": {
+      "image": "assets/panoramas/dormitorio.jpg",
+      "imageMobile": "assets/panoramas/dormitorio-mobile.jpg",
+      "hotspots": [
+        {
+          "productId": "criado-mudo-torneado",
+          "yaw": -110.04,
+          "pitch": -27.3
+        },
+        {
+          "productId": "par-castical-bronze",
+          "yaw": -109.98,
+          "pitch": -15.29
+        },
+        {
+          "productId": "comoda-tres-gavetas-cerejeira",
+          "yaw": 6.32,
+          "pitch": -22.22
+        },
+        {
+          "productId": "jarro-bacia-porcelana",
+          "yaw": 6.29,
+          "pitch": -10.61
+        },
+        {
+          "productId": "espelho-bisotado-retangular",
+          "yaw": 5.76,
+          "pitch": 1.91
+        },
+        {
+          "productId": "bau-viagem-couro",
+          "yaw": 0,
+          "pitch": -76.1
+        },
+        {
+          "productId": "retrato-oleo-dama",
+          "yaw": -164.95,
+          "pitch": 2.79
+        },
+        {
+          "productId": "natureza-morta-oleo",
+          "yaw": -55.53,
+          "pitch": 3.81
+        }
+      ],
+      "navPoints": [
+        {
+          "target": "sala-de-estar",
+          "label": "Voltar para a Sala de estar",
+          "yaw": 152.65,
+          "pitch": -4.38
+        }
+      ],
+      "views": {
+        "dormitorio-capa": "assets/scenes/dormitorio-capa.jpg"
+      }
+    }
+  }
+}
