@@ -32,6 +32,7 @@ export const products = {
   'natureza-morta-oleo': { type: 'frame', params: { kind: 'still', w: 0.6, h: 0.46, frame: 'wood' }, exportGlb: false },
   // Modelo GLB fornecido pelo cliente como exemplo (arquivo já existente, não é exportado).
   'peca-decorativa-demonstrativa': { external: 'assets/models/peca-demo.glb', size: 0.7, exportGlb: false },
+  'maquina-macarrao-manual': { external: 'assets/models/peca-demo-2.glb', size: 0.3, exportGlb: false },
 };
 
 const views = (name, list) => list.map((v) => ({ ...v, name: `${name}-${v.name}` }));
@@ -74,6 +75,7 @@ export const rooms = [
       { product: 'relogio-carrilhao-pe', at: [-2.6, 0, -2.1], rot: Math.PI / 4 },
       { decor: 'console', at: [2.72, 0, -0.7], rot: -Math.PI / 2 },
       { product: 'vitrola-corneta-bordo', at: [2.72, 0.76, -0.55], rot: -Math.PI / 2 - 0.4 },
+      { product: 'maquina-macarrao-manual', at: [2.72, 0.76, -1.1], rot: -Math.PI / 2 + 0.5 },
       { product: 'quadro-paisagem-oleo', wall: 'east', t: -0.7, y: 1.85 },
       { product: 'vaso-ceramica-esmaltada-verde', at: [2.6, 0, 1.0] },
       { decor: 'plant', at: [-2.55, 0, 1.6] },

@@ -548,6 +548,27 @@ const seeds: Seed[] = [
     views: 150,
     daysAgo: 1,
   },
+  {
+    id: 'maquina-macarrao-manual',
+    name: 'Máquina manual de macarrão',
+    shortDescription: 'Máquina de abrir massa com manivela, corpo esmaltado em amarelo e rolos metálicos.',
+    description:
+      'Máquina de abrir massa de acionamento manual, com corpo esmaltado em amarelo, rolos metálicos e manivela removível. Um objeto de cozinha com forte apelo afetivo, que funciona tanto em uso quanto como peça decorativa em cozinhas e copas. Este item também demonstra um segundo modelo 3D (GLB) enviado pelo cliente: gire, aproxime e veja a peça posicionada no ambiente Sala de estar. As informações abaixo são genéricas e ilustrativas.',
+    price: 480,
+    categoryId: 'artigos-para-casa',
+    dimensions: { height: 22, width: 30, depth: 24 },
+    weightKg: 3.5,
+    material: 'Metal esmaltado e aço (ilustrativo)',
+    conservation: 'muito-bom',
+    era: 'Década de 1970 (ilustrativo)',
+    maker: 'Modelo 3D de exemplo',
+    provenance: 'Arquivo GLB fornecido para a demonstração',
+    wearNotes: 'Peça demonstrativa: marcas de uso apenas ilustrativas.',
+    isNew: true,
+    tags: ['demonstração', '3D', 'cozinha'],
+    views: 120,
+    daysAgo: 0.5,
+  },
 ];
 
 export function buildSeedProducts(now = Date.now()): Product[] {

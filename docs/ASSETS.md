@@ -7,6 +7,7 @@ Todos os assets visuais da demo foram **gerados proceduralmente** (sem fotos ou 
 | `public/assets/products/<id>/1..3.jpg` | 3 fotos de estúdio por produto |
 | `public/assets/models/<id>.glb` | Modelos 3D exportados (19 produtos) |
 | `public/assets/models/peca-demo.glb` | **Modelo GLB de exemplo fornecido pelo cliente**, usado no produto "Peça decorativa demonstrativa" e posicionado no ambiente Escritório |
+| `public/assets/models/peca-demo-2.glb` | **Segundo GLB do cliente** (máquina manual de macarrão), posicionado sobre o aparador da Sala de estar. O cubo-padrão sem textura que vinha no arquivo original foi retirado da cena |
 | `public/assets/panoramas/<ambiente>.jpg` | Panoramas equiretangulares 4096×2048 (desktop) e `-mobile.jpg` 2048×1024 |
 | `public/assets/scenes/*.jpg` | Vistas em perspectiva dos ambientes (hero, capas e editoriais) |
 | `src/data/generated/assets-manifest.json` | Caminhos gerados e **hotspots calculados automaticamente** a partir da posição 3D de cada peça |

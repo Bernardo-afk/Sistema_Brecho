@@ -55,9 +55,9 @@ O projeto usa `base: './'` e rotas com hash (`/#/produto/...`), então funciona 
 
 | Item | Quantidade |
 | --- | --- |
-| Produtos | 26 (20 com modelo 3D, incluindo o GLB do cliente; 6 com fallback; 5 vendidos) |
+| Produtos | 27 (21 com modelo 3D, incluindo os 2 GLBs do cliente; 6 com fallback; 5 vendidos) |
 | Categorias | 7 |
-| Ambientes panorâmicos | 3 (23 hotspots + pontos de navegação entre ambientes) |
+| Ambientes panorâmicos | 3 (24 hotspots + pontos de navegação entre ambientes) |
 | Pedidos | 6 (todos os status do fluxo) |
 | Clientes | 6 (incluindo a conta demonstrativa) |
 | Cupons | 4 (3 válidos e 1 expirado) |

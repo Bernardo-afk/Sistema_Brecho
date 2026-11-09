@@ -207,6 +207,14 @@
         "assets/products/natureza-morta-oleo/3.jpg"
       ],
       "model": null
+    },
+    "maquina-macarrao-manual": {
+      "photos": [
+        "assets/products/maquina-macarrao-manual/1.jpg",
+        "assets/products/maquina-macarrao-manual/2.jpg",
+        "assets/products/maquina-macarrao-manual/3.jpg"
+      ],
+      "model": "assets/models/peca-demo-2.glb"
     }
   },
   "rooms": {
@@ -296,6 +304,11 @@
           "productId": "vitrola-corneta-bordo",
           "yaw": -12.85,
           "pitch": -7.32
+        },
+        {
+          "productId": "maquina-macarrao-manual",
+          "yaw": -22.02,
+          "pitch": -13.35
         },
         {
           "productId": "quadro-paisagem-oleo",

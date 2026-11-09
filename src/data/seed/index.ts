@@ -18,7 +18,7 @@ export interface DemoDatabase {
   admins: AdminUser[];
 }
 
-export const DB_VERSION = 3;
+export const DB_VERSION = 4;
 
 type RoomManifest = {
   image: string;
