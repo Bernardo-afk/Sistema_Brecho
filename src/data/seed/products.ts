@@ -553,7 +553,7 @@ const seeds: Seed[] = [
     name: 'Máquina manual de macarrão',
     shortDescription: 'Máquina de abrir massa com manivela, corpo esmaltado em amarelo e rolos metálicos.',
     description:
-      'Máquina de abrir massa de acionamento manual, com corpo esmaltado em amarelo, rolos metálicos e manivela removível. Um objeto de cozinha com forte apelo afetivo, que funciona tanto em uso quanto como peça decorativa em cozinhas e copas. Este item também demonstra um segundo modelo 3D (GLB) enviado pelo cliente: gire, aproxime e veja a peça posicionada no ambiente Sala de estar. As informações abaixo são genéricas e ilustrativas.',
+      'Máquina de abrir massa de acionamento manual, com corpo esmaltado em amarelo, rolos metálicos e manivela removível. Um objeto de cozinha com forte apelo afetivo, que funciona tanto em uso quanto como peça decorativa em cozinhas e copas. Este item também demonstra um segundo modelo 3D (GLB) enviado pelo cliente: gire, aproxime e veja a peça posicionada sobre a escrivaninha do ambiente Escritório. As informações abaixo são genéricas e ilustrativas.',
     price: 480,
     categoryId: 'artigos-para-casa',
     dimensions: { height: 22, width: 30, depth: 24 },

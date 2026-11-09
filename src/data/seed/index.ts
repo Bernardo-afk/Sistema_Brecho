@@ -18,7 +18,7 @@ export interface DemoDatabase {
   admins: AdminUser[];
 }
 
-export const DB_VERSION = 4;
+export const DB_VERSION = 5;
 
 type RoomManifest = {
   image: string;
@@ -33,7 +33,7 @@ const photo = (id: string, n = 1) => `assets/products/${id}/${n}.jpg`;
 
 // Ajustes finos de hotspots que ficariam sobrepostos (posição calculada automaticamente pelo gerador).
 const hotspotOverrides: Record<string, Partial<{ yaw: number; pitch: number }>> = {
-  'escritorio:escrivaninha-imbuia-anos-50': { yaw: -101, pitch: -24 },
+  'escritorio:escrivaninha-imbuia-anos-50': { yaw: -78, pitch: -27 },
   'sala-de-estar:mesa-lateral-jacaranda': { pitch: -33 },
 };
 
